@@ -8,7 +8,7 @@ Suportada versão 3 de Python
 Para instalar:
 
 ```console
-python3 -m venve .venv
+python3 -m venv .venv
 . .venv/bin/activate
 pip install -r requirements-dev.txt
 ```
