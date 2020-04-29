@@ -42,3 +42,5 @@ Upgrade de dependencia e gerenciando dependencia com pyup
 
 Link [Pyup](https://pyup.io/)
 
+Criar Setup.py para preparar envio para o pypi
+
