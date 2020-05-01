@@ -101,12 +101,12 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro_2020"
+PACKAGE = "libpythonpro"
 NAME = PACKAGE
-DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Renzo Nuccitelli"
-AUTHOR_EMAIL = "renzo@python.pro.br"
-URL = "https://github.com/pythonprobr/libpythonpro"
+DESCRIPTION = "Modulo para exemplificar construcao de projetos Python no curso PyTools"
+AUTHOR = "André Marcos Gelhen"
+AUTHOR_EMAIL = "gelhen@gmail.com"
+URL = "https://github.com/gelhen/libpythonpro_2020"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
@@ -114,7 +114,7 @@ setup(
     version=VERSION,
     description=DESCRIPTION,
     long_description=read('README.md'),
-    long_description_content_type='text/markdown',
+    long_description_content_type='text',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license=read('LICENSE'),

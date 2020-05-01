@@ -44,3 +44,28 @@ Link [Pyup](https://pyup.io/)
 
 Criar Setup.py para preparar envio para o pypi
 
+######Criação de Release
+Para marcar o estado do projeto uma tag no github, com o nome 0.1(Versão do projeto)
+```console
+git tag 0.1
+```
+Enviar tag para o repositorio
+```console
+git push --tags
+``` 
+
+######Publicação no PyPi
+Criar uma conta no pypi [PyPI](https://pypi.org)
+
+Criar uma distribuição do projeto
+
+```console
+python setup.py sdist
+```
+Para fazer a puplicação 
+
+```console
+ pip install twine
+ twine upload dist/*
+ 
+ ```
