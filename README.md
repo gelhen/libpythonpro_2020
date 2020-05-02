@@ -6,6 +6,8 @@ Link do curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.org/gelhen/libpythonpro_2020.svg?branch=master)](https://travis-ci.org/gelhen/libpythonpro_2020)
 [![Updates](https://pyup.io/repos/github/gelhen/libpythonpro_2020/shield.svg)](https://pyup.io/repos/github/gelhen/libpythonpro_2020/)    
 [![Python 3](https://pyup.io/repos/github/gelhen/libpythonpro_2020/python-3-shield.svg)](https://pyup.io/repos/github/gelhen/libpythonpro_2020/)
+[![codecov](https://codecov.io/gh/gelhen/libpythonpro_2020/branch/master/graph/badge.svg)](https://codecov.io/gh/gelhen/libpythonpro_2020)
+
 
 Suportada versão 3 de Python
 
