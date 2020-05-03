@@ -12,8 +12,7 @@ from libpythonpro.spam.modelos import Usuario
     [
         [Usuario(nome='Andre', email='gelhen@gmail.com'),
          Usuario(nome='Marcos', email='gelhen@gmail.com')
-         ]
-        ,
+         ],
         [
             Usuario(nome='Andre', email='gelhen@gmail.com')
         ]
