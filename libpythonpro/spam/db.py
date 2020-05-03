@@ -19,7 +19,7 @@ class Sessao:
 
 class Conexao:
     def gerar_sessao(self):
-        return  Sessao()
+        return Sessao()
 
     def fechar(self):
         pass

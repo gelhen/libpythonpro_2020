@@ -23,4 +23,3 @@ def test_listar_usuario():
     sessao.roll_back()
     sessao.fechar()
     conexao.fechar()
-
